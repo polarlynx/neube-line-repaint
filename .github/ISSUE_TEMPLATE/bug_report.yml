@@ -1,5 +1,5 @@
 name: Bug report / 问题报告
-description: Report an installation, activation, repaint, export, PSD, or canvas issue. / 反馈安装、授权、重绘、导出、PSD 或画布问题。
+description: Report a reproducible line-art, image handling, export, or workflow issue. / 反馈可复现的线稿、图像处理、导出或流程问题。
 title: "[Bug] "
 labels:
   - bug
@@ -7,14 +7,14 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting a bug. Please avoid uploading private artwork, license certificates, Machine IDs, order screenshots, or customer material.
+        Thanks for reporting a bug. Please avoid uploading private artwork, customer material, personal information, or files you do not have permission to share.
 
-        感谢反馈问题。请不要上传私人素材、授权证书、Machine ID、订单截图或客户素材。
+        感谢反馈问题。请不要上传私人素材、客户素材、个人信息，或任何你无权公开分享的文件。
   - type: input
     id: version
     attributes:
-      label: NeuBE version / 软件版本
-      placeholder: v0.1.1
+      label: NeuBE version, if known / 软件版本（如果知道）
+      placeholder: v0.1.x
     validations:
       required: true
   - type: input
@@ -27,8 +27,6 @@ body:
     attributes:
       label: Area / 问题区域
       options:
-        - Install / 安装
-        - Activation or license / 授权或证书
         - Import / 导入
         - Line extraction / 线稿提取
         - Repaint / 重绘
@@ -36,7 +34,7 @@ body:
         - Export PSD / 导出 PSD
         - Canvas / 画布
         - Performance / 性能
-        - Website / 官网
+        - Visual quality / 视觉质量
         - Other / 其他
     validations:
       required: true

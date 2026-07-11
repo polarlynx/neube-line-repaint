@@ -1,37 +1,33 @@
-# Contributing Feedback
+# Contributing
 
-Thanks for helping improve NeuBE Line Repaint.
+This repository is a public project page for NeuBE Line Repaint.
 
-## Keep Issues Actionable
+Use Issues for public product discussion, reproducible visual examples, workflow notes, and feature ideas.
 
-Good feedback usually includes:
+## Useful Issues
 
-- What you expected.
+Helpful issues usually include:
+
+- What kind of image material you started from.
+- What line-art result you expected.
 - What happened instead.
-- The smallest steps that reproduce the issue.
-- The app version and Windows version.
-- Whether the issue happens with a simple test image.
+- A small public-safe example or screenshot, if available.
 
-## Public Issue Safety
+## Public Safety
 
-Do not post:
-
-- Private client artwork.
-- Paid source files.
-- License certificates.
-- Machine IDs, order IDs, emails, or payment screenshots.
-- Files you do not have permission to share publicly.
+Do not post private client artwork, paid source files, personal information, or files you do not have permission to share publicly.
 
 ## 中文说明
 
-感谢你帮助改进 NeuBE Line Repaint。
+这个仓库是 NeuBE Line Repaint 的公开项目页。
 
-好的反馈通常包含：
+Issues 可用于公开产品讨论、可复现视觉示例、流程反馈和功能想法。
 
-- 你原本期待发生什么。
+有帮助的 Issue 通常包含：
+
+- 起始图像素材类型。
+- 你期待得到什么线稿结果。
 - 实际发生了什么。
-- 最小复现步骤。
-- 软件版本和 Windows 版本。
-- 是否能用简单测试图复现。
+- 如果方便，可以提供不涉及隐私和版权风险的小示例或截图。
 
-请不要在公开 Issue 中发布客户素材、付费源文件、授权证书、Machine ID、订单号、邮箱、付款截图，或任何你无权公开分享的文件。
+请不要公开发布客户素材、付费源文件、个人信息，或任何你无权公开分享的文件。

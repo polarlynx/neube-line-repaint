@@ -1,5 +1,1 @@
 blank_issues_enabled: true
-contact_links:
-  - name: Private license or order support / 私密授权或订单问题
-    url: https://github.com/polarlynx/neube-line-repaint-feedback/issues
-    about: Do not post license certificates, order screenshots, Machine IDs, or private artwork publicly. / 请不要公开发布授权证书、订单截图、Machine ID 或私人素材。

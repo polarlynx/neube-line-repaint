@@ -1,55 +1,65 @@
-# NeuBE Line Repaint Feedback
+# NeuBE Line Repaint
 
-Public feedback tracker for NeuBE Line Repaint.
+NeuBE Line Repaint is a desktop creative tool for turning image material into clean production line art.
 
-Use this repository to report bugs, share workflow feedback, request improvements, and provide beta test notes. Please do not upload private client artwork, commercial source files, license certificates, order screenshots, or any file you do not have the right to share publicly.
+It is designed for workflows where artists start from sketches, AI concept images, screenshots, 3D renders, backgrounds, packaging concepts, or commercial artwork, then need a cleaner line-art result for editing and production.
 
-## Open An Issue
+The application source code is not included in this repository.
 
-- Bug report: installation, activation, import, line extraction, repainting, export, PSD, or canvas behavior.
-- Workflow feedback: what felt confusing, slow, fragile, or unexpectedly useful.
-- Feature request: a concrete improvement you would like in the app or website.
-- Documentation issue: anything unclear in setup, licensing, or usage instructions.
+## What It Does
 
-Before opening an issue, please include:
+- Converts image material into cleaner production line art.
+- Reduces noisy, uneven, or overly soft edges while preserving the main visual structure.
+- Helps turn visual references into line-art assets that are easier to edit, inspect, and hand off.
+- Works across character, prop, background, packaging, and design-workspace style material.
+- Fits workflows that need transparent PNG and layered PSD style output.
 
-- NeuBE Line Repaint version.
-- Windows version.
-- CPU/GPU information if the issue is performance related.
-- Whether the built-in Stable Diffusion UI plugin was installed.
-- Steps to reproduce the issue.
-- Screenshots or logs only when they do not expose private material.
+## Highlights
 
-## Support Scope
+- **Image-to-line workflow**: bring in image material and turn it into clearer line work.
+- **Production-focused output**: aimed at assets that need further editing, compositing, or delivery.
+- **Structure preservation**: keeps the main silhouette, internal details, and visual hierarchy readable.
+- **Layer-aware direction**: designed around practical handoff needs for editable art assets.
+- **Broad visual coverage**: examples include characters, commercial assets, props, backgrounds, and screenshot-like design scenes.
+- **Local-first creative workflow**: shaped like a desktop art tool rather than a hosted web service.
 
-Core support covers the local Line Repaint workflow, transparent PNG export, layered PSD export, license import, and beta build startup.
+## Use Cases
 
-The bundled Stable Diffusion UI plugin is optional and experimental. It is not the primary supported product surface for feedback in this repository.
+- Cleaning up rough visual concepts into line-art references.
+- Preparing line-art layers for illustration or commercial design work.
+- Extracting clearer structure from AI-generated concepts.
+- Producing editable line assets from prop sheets, background art, or packaging-style images.
+- Comparing baseline edge extraction against NeuBE line-art output.
 
-## Chinese
+## 中文
 
-这个仓库用于收集 NeuBE Line Repaint 的公开反馈、问题报告和改进建议。
+NeuBE Line Repaint 是一款桌面创作工具，用于把图像素材转成更干净的生产线稿。
 
-请不要上传客户素材、商业源文件、授权证书、订单截图，或任何你无权公开分享的文件。
+它面向这样的流程：创作者从草图、AI 概念图、截图、3D 渲染、背景、包装概念图或商业美术素材出发，希望得到更清晰、便于继续编辑和生产交付的线稿结果。
 
-### 可以反馈什么
+这个仓库不包含应用源码。
 
-- 安装、启动、授权、导入、线稿提取、重绘、导出、PSD、画布等问题。
-- 哪些流程让你困惑、卡顿、不稳定，或意外好用。
-- 你希望加入的具体功能或改进。
-- 官网、安装说明、授权说明中不清楚的地方。
+## 功能方向
 
-### 提交问题时建议提供
+- 将图像素材转换为更干净的生产线稿。
+- 减少杂边、不稳定边缘和过软边缘，同时保留主要画面结构。
+- 帮助把视觉参考转成更易编辑、检查和交接的线稿资产。
+- 覆盖角色、道具、背景、包装、类设计工作台等素材类型。
+- 适合需要透明 PNG 和分层 PSD 风格输出的工作流。
 
-- NeuBE Line Repaint 版本。
-- Windows 版本。
-- 如果是性能问题，请提供 CPU/GPU 信息。
-- 是否安装内置 Stable Diffusion UI 插件。
-- 复现步骤。
-- 截图或日志仅在不暴露私人素材时提供。
+## 特色
 
-### 支持范围
+- **图像转线稿流程**：导入图像素材，生成更清晰的线稿。
+- **面向生产交付**：输出目标是可继续编辑、合成和交付的美术资产。
+- **结构保留**：让主体轮廓、内部细节和画面层次保持可读。
+- **考虑图层交接**：围绕可编辑美术资产的实际交付需求设计。
+- **素材类型覆盖广**：示例包含角色、商业素材、道具、背景和类截图设计场景。
+- **本地优先创作流程**：产品形态更接近桌面美术工具，而不是托管网页服务。
 
-核心支持范围包括本地 Line Repaint 流程、透明 PNG 导出、分层 PSD 导出、授权证书导入和 beta 版本启动。
+## 适用场景
 
-内置 Stable Diffusion UI 插件是可选实验组件，不作为这个反馈仓库的主要支持面。
+- 将粗略视觉概念整理成线稿参考。
+- 为插画或商业设计准备线稿层。
+- 从 AI 生成概念图中提取更清晰的结构。
+- 从道具表、背景图或包装风格图片中生成可编辑线稿资产。
+- 对比基础边缘提取和 NeuBE 线稿输出效果。
