@@ -7,16 +7,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this form for product and workflow feedback. Public issues should not include private artwork or order/license details.
+        Use this form for product and workflow feedback. Public issues should not include private artwork, personal information, or files you do not have permission to share.
 
-        这个表单用于产品和流程反馈。公开 Issue 不应包含私人素材、订单或授权细节。
+        这个表单用于产品和流程反馈。公开 Issue 不应包含私人素材、个人信息，或任何你无权公开分享的文件。
   - type: dropdown
     id: workflow_area
     attributes:
       label: Workflow area / 流程区域
       options:
         - First launch / 首次启动
-        - Activation / 授权
         - Importing images / 导入图像
         - Line extraction / 线稿提取
         - Repaint controls / 重绘控制
