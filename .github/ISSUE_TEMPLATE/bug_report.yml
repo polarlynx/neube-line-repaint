@@ -1,5 +1,5 @@
-name: Bug report / 问题报告
-description: Report a reproducible line-art, image handling, export, or workflow issue. / 反馈可复现的线稿、图像处理、导出或流程问题。
+name: Bug report
+description: Report a reproducible line-art, image handling, export, or workflow issue.
 title: "[Bug] "
 labels:
   - bug
@@ -8,47 +8,45 @@ body:
     attributes:
       value: |
         Thanks for reporting a bug. Please avoid uploading private artwork, customer material, personal information, or files you do not have permission to share.
-
-        感谢反馈问题。请不要上传私人素材、客户素材、个人信息，或任何你无权公开分享的文件。
   - type: input
     id: version
     attributes:
-      label: NeuBE version, if known / 软件版本（如果知道）
+      label: NeuBE version, if known
       placeholder: v0.1.x
     validations:
       required: true
   - type: input
     id: windows
     attributes:
-      label: Windows version / Windows 版本
+      label: Windows version
       placeholder: Windows 11 23H2
   - type: dropdown
     id: area
     attributes:
-      label: Area / 问题区域
+      label: Area
       options:
-        - Import / 导入
-        - Line extraction / 线稿提取
-        - Repaint / 重绘
-        - Export PNG / 导出 PNG
-        - Export PSD / 导出 PSD
-        - Canvas / 画布
-        - Performance / 性能
-        - Visual quality / 视觉质量
-        - Other / 其他
+        - Import
+        - Line extraction
+        - Repaint
+        - Export PNG
+        - Export PSD
+        - Canvas
+        - Performance
+        - Visual quality
+        - Other
     validations:
       required: true
   - type: textarea
     id: summary
     attributes:
-      label: Summary / 简要描述
-      description: What went wrong? / 发生了什么问题？
+      label: Summary
+      description: What went wrong?
     validations:
       required: true
   - type: textarea
     id: steps
     attributes:
-      label: Steps to reproduce / 复现步骤
+      label: Steps to reproduce
       placeholder: |
         1. ...
         2. ...
@@ -58,13 +56,13 @@ body:
   - type: textarea
     id: expected
     attributes:
-      label: Expected result / 期望结果
+      label: Expected result
   - type: textarea
     id: actual
     attributes:
-      label: Actual result / 实际结果
+      label: Actual result
   - type: textarea
     id: diagnostics
     attributes:
-      label: Diagnostics / 诊断信息
-      description: Include logs or screenshots only if they are safe to share publicly. / 仅在可公开分享时提供日志或截图。
+      label: Diagnostics
+      description: Include logs or screenshots only if they are safe to share publicly.
