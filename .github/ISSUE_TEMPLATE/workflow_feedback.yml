@@ -1,5 +1,5 @@
-name: Workflow feedback
-description: Share friction, confusion, usability notes, or positive feedback.
+name: Workflow feedback / 流程反馈
+description: Share friction, confusion, usability notes, or positive feedback. / 反馈流程卡点、困惑、易用性建议或好用之处。
 title: "[Feedback] "
 labels:
   - feedback
@@ -8,35 +8,37 @@ body:
     attributes:
       value: |
         Use this form for product and workflow feedback. Public issues should not include private artwork, personal information, or files you do not have permission to share.
+
+        这个表单用于产品和流程反馈。公开 Issue 不应包含私人素材、个人信息，或任何你无权公开分享的文件。
   - type: dropdown
     id: workflow_area
     attributes:
-      label: Workflow area
+      label: Workflow area / 流程区域
       options:
-        - First launch
-        - Importing images
-        - Line extraction
-        - Repaint controls
-        - Editing on canvas
-        - PNG export
-        - PSD export
-        - Website or documentation
-        - Other
+        - First launch / 首次启动
+        - Importing images / 导入图像
+        - Line extraction / 线稿提取
+        - Repaint controls / 重绘控制
+        - Editing on canvas / 画布编辑
+        - PNG export / PNG 导出
+        - PSD export / PSD 导出
+        - Website or documentation / 官网或文档
+        - Other / 其他
     validations:
       required: true
   - type: textarea
     id: feedback
     attributes:
-      label: Feedback
-      description: What felt confusing, slow, fragile, or useful?
+      label: Feedback / 反馈
+      description: What felt confusing, slow, fragile, or useful? / 哪些地方让你困惑、卡顿、不稳定，或觉得好用？
     validations:
       required: true
   - type: textarea
     id: suggestion
     attributes:
-      label: Suggested improvement
+      label: Suggested improvement / 改进建议
   - type: input
     id: version
     attributes:
-      label: NeuBE version
+      label: NeuBE version / 软件版本
       placeholder: v0.1.1

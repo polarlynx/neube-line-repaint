@@ -3,7 +3,7 @@
 <h1 align="center">NeuBE Line Repaint</h1>
 
 <p align="center">
-  Turn image material into clean, inspectable production line art.
+  Re-render image material as clean, inspectable line trajectories.
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 <p align="center">
   <img src="docs/assets/hero-before.webp" width="49%" alt="Original colorful character image">
-  <img src="docs/assets/hero-after.webp" width="49%" alt="NeuBE line art result">
+  <img src="docs/assets/hero-after.webp" width="49%" alt="Re-rendered trajectory result">
 </p>
 
-NeuBE Line Repaint is a desktop creative tool for converting sketches, AI concepts, screenshots, renders, backgrounds, and commercial art into cleaner production line art. It is built around the kind of output artists need to keep editing: readable structure, cleaner edges, transparent line layers, and PSD-style handoff.
+NeuBE Line Repaint is a desktop creative tool that reconstructs sketches, AI concepts, screenshots, renders, backgrounds, and commercial art as cleaner line trajectories. Instead of simply exposing source-image edges, it re-renders the visible structure into a more coherent result that artists can inspect, edit, composite, and hand off.
 
 This repository is a public project page. The application source code is not included here.
 
@@ -26,11 +26,11 @@ This repository is a public project page. The application source code is not inc
 <table>
   <tr>
     <td width="50%"><img src="docs/assets/desk-source.webp" alt="Designer desk source image"></td>
-    <td width="50%"><img src="docs/assets/desk-line.webp" alt="Designer desk NeuBE line art"></td>
+    <td width="50%"><img src="docs/assets/desk-rendered.webp" alt="Re-rendered designer workspace trajectory"></td>
   </tr>
   <tr>
     <td align="center"><strong>Source image</strong></td>
-    <td align="center"><strong>NeuBE line art</strong></td>
+    <td align="center"><strong>Re-rendered result</strong></td>
   </tr>
 </table>
 
@@ -39,11 +39,11 @@ This repository is a public project page. The application source code is not inc
 <table>
   <tr>
     <td width="50%"><img src="docs/assets/game-source.webp" alt="Game asset workbench source image"></td>
-    <td width="50%"><img src="docs/assets/game-line.webp" alt="Game asset workbench line art"></td>
+    <td width="50%"><img src="docs/assets/game-rendered.webp" alt="Re-rendered game prop trajectory"></td>
   </tr>
   <tr>
     <td align="center"><strong>Source image</strong></td>
-    <td align="center"><strong>NeuBE line art</strong></td>
+    <td align="center"><strong>Re-rendered result</strong></td>
   </tr>
 </table>
 
@@ -52,21 +52,21 @@ This repository is a public project page. The application source code is not inc
 <table>
   <tr>
     <td width="25%"><img src="docs/assets/tea-source.webp" alt="Botanical tea source image"></td>
-    <td width="25%"><img src="docs/assets/tea-line.webp" alt="Botanical tea line art"></td>
+    <td width="25%"><img src="docs/assets/tea-rendered.webp" alt="Re-rendered botanical packaging trajectory"></td>
     <td width="25%"><img src="docs/assets/storybook-source.webp" alt="Storybook deer source image"></td>
-    <td width="25%"><img src="docs/assets/storybook-line.webp" alt="Storybook deer line art"></td>
+    <td width="25%"><img src="docs/assets/storybook-rendered.webp" alt="Re-rendered storybook illustration trajectory"></td>
   </tr>
   <tr>
     <td align="center">Packaging source</td>
-    <td align="center">Packaging line</td>
+    <td align="center">Re-rendered result</td>
     <td align="center">Illustration source</td>
-    <td align="center">Illustration line</td>
+    <td align="center">Re-rendered result</td>
   </tr>
 </table>
 
 ## What It Focuses On
 
-- **Cleaner production line art** from image material rather than only hand-drawn sketches.
+- **Re-rendered line trajectories** that reconstruct visible structure instead of merely tracing source-image edges.
 - **Readable structure** for characters, props, interiors, UI-like scenes, packaging, and textured illustration.
 - **Editable handoff direction** for PNG and PSD-style workflows.
 - **Noise reduction** around soft, painterly, or uneven source edges.
@@ -75,10 +75,10 @@ This repository is a public project page. The application source code is not inc
 ## PSD-Oriented Output
 
 <p align="center">
-  <img src="docs/assets/psd-proof.webp" width="72%" alt="PSD proof with line art layer stack">
+  <img src="docs/assets/psd-proof.webp" width="72%" alt="PSD proof with an editable trajectory layer stack">
 </p>
 
-NeuBE Line Repaint is designed around line art that can keep moving through a production pipeline. The goal is not just a preview image, but a cleaner line layer that can be checked, edited, composited, and handed off.
+NeuBE Line Repaint is designed around re-rendered trajectories that can keep moving through a production pipeline. The goal is not just a preview image, but a cleaner editable layer that can be checked, adjusted, composited, and handed off.
 
 ## Good Fits
 
