@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://neubeart.com/"><strong>Official Website</strong></a>
   ·
-  <a href="https://cn.neubeart.com/"><strong>Chinese Website</strong></a>
+  <a href="https://cn.neubeart.com/"><strong>中文官网</strong></a>
   ·
   <a href="https://github.com/polarlynx/neube-line-repaint/issues"><strong>Issues</strong></a>
 </p>
