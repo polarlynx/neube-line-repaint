@@ -3,6 +3,10 @@
 <p align="center">
   <a href="README.md"><strong>English / 双语主页</strong></a>
   ·
+  <a href="https://cn.neubeart.com/"><strong>中文官网</strong></a>
+  ·
+  <a href="https://neubeart.com/"><strong>English Website</strong></a>
+  ·
   <a href="https://github.com/polarlynx/neube-line-repaint/issues"><strong>Issues</strong></a>
 </p>
 
