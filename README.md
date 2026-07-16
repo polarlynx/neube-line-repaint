@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://neubeart.com/"><strong>Official Website</strong></a>
   ·
-  <a href="https://cn.neubeart.com/"><strong>中文官网</strong></a>
+  <a href="https://cn.neubeart.com/"><strong>Chinese Website</strong></a>
   ·
   <a href="https://github.com/polarlynx/neube-line-repaint/issues"><strong>Issues</strong></a>
 </p>
@@ -85,16 +85,6 @@ NeuBE will keep improving around real creative work—not metered cloud usage.
 - **Updates beyond the license:** the drawing workspace and bundled local Stable Diffusion tools continue to receive updates without an active license.
 - **No usage economy:** beyond the license you choose, there are no generation credits, usage packs, or second subscription layer.
 - **Local-first by design:** creative work and processing stay on your machine.
-
-### 持续更新
-
-NeuBE 会围绕真实创作持续改进，而不是把创作过程变成按量计费的云服务。
-
-- **后续重点：**继续优化绘画手感、草稿重绘、色彩提取，以及真实项目中影响效率的工作流细节。
-- **由反馈推动：**来自 [GitHub Issues](https://github.com/polarlynx/neube-line-repaint/issues) 的功能建议、边界案例和生产反馈，会成为版本更新的重要依据。
-- **不因许可证停更：**即使没有有效许可证，绘画区与随应用提供的本地 Stable Diffusion 功能仍将持续获得更新。
-- **没有用量经济：**除你选择的许可证外，不另设生成积分、用量包或第二层订阅费用。
-- **完全本地优先：**创作文件与处理过程留在你的设备上。
 
 ## PSD-Oriented Output
 
