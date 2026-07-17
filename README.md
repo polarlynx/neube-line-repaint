@@ -86,7 +86,7 @@ NeuBE will keep improving around real creative work—not metered cloud usage.
 - **No usage economy:** beyond the license you choose, there are no generation credits, usage packs, or second subscription layer.
 - **Local-first by design:** creative work and processing stay on your machine.
 
-### Research Previews — In Development
+### R&D Concept Previews — In Development
 
 > The following concept visuals communicate active R&D directions. They are not features in the current release and do not promise a specific release date.
 
