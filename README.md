@@ -86,6 +86,34 @@ NeuBE will keep improving around real creative work—not metered cloud usage.
 - **No usage economy:** beyond the license you choose, there are no generation credits, usage packs, or second subscription layer.
 - **Local-first by design:** creative work and processing stay on your machine.
 
+### R&D Concept Previews — In Development
+
+> The following concept visuals communicate active R&D directions. They are not features in the current release and do not promise a specific release date.
+
+#### Stronger Low-Resolution Recovery
+
+Improve structural recovery and line clarity when the source image is small, soft, or visibly pixelated.
+
+<p align="center">
+  <img src="docs/assets/roadmap/low-resolution-recovery.webp" width="100%" alt="Concept preview of low-resolution input recovery from pixelated source to clean linework">
+</p>
+
+#### Advanced Color Separation
+
+Explore editable separation for gradients, hidden accent colors, multiply shading, and richer color relationships.
+
+<p align="center">
+  <img src="docs/assets/roadmap/advanced-color-separation.webp" width="100%" alt="Concept preview of gradients, hidden colors, multiply shadows, and highlights separated into editable layers">
+</p>
+
+#### Editing-Friendly Vector Conversion
+
+Explore converting raster artwork into editing-friendly vector paths, shapes, and logical object groups.
+
+<p align="center">
+  <img src="docs/assets/roadmap/editable-vector-conversion.webp" width="100%" alt="Concept preview of raster artwork converted into editable vector paths and object groups">
+</p>
+
 ## PSD-Oriented Output
 
 <p align="center">
